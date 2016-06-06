@@ -1,0 +1,9 @@
+#ide
+*.iml
+.idea/
+
+# compiled output
+dist/bundle.js
+
+# dependencies
+/node_modules
